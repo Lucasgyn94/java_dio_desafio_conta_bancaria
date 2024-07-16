@@ -19,7 +19,7 @@ O projeto **ContaBanco** é uma aplicação Java simples desenvolvida para sanar
 ## Como Executar
 1. **Clone o repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/ContaBanco.git<br>
+   git clone https://github.com/seu-usuario/ContaBanco.git
    cd ContaBanco
 
 2. **Compile o projeto:**
